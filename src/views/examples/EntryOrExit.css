@@ -1,0 +1,36 @@
+.a {  
+    font-family: arial;
+    text-shadow: 0 -1px 0px #d35400;
+    position: relative;
+    color: #FFF;
+    text-decoration: none;
+    background-color: #f1c40f;
+    border-radius: 5px;
+    box-shadow: 0px 4px 0px #d35400;
+    width: 180px;
+    height: 100px;
+    bottom: 2vh;
+    text-align: center;
+    font-weight: bold;
+    transition: all .1s ease;
+    font-size: 5vh;
+    padding: 10px;
+    margin:3vh ;
+    text-transform: uppercase;
+    position: relative;
+    top: 5vh;
+    left:30% ;
+  }
+  
+  .a:hover {
+    background: #f39c12;
+    color: #FFF;
+    box-shadow: 1px 0px 0px #d35400;
+    /* top: 2px; */
+  }
+  
+  .a:active {
+    background: #d35400;
+    box-shadow: 0px 0 0px #d35400;
+    /* top: 4px; */
+  }
